@@ -25,7 +25,7 @@ export class AppComponent {
     'star trek',
     'star wars',
     'marvel',
-    'dune'
+    'dune',
     'bladerunner'
   ]
 }
