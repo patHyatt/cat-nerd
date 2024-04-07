@@ -16,7 +16,9 @@ export class AppComponent {
     'cat',
     'dog',
     'hamster',
-    'iguana'
+    'iguana',
+    'sloth',
+    'platypus'
   ]
 
   universes = [
@@ -24,5 +26,6 @@ export class AppComponent {
     'star wars',
     'marvel',
     'dune'
+    'bladerunner'
   ]
 }
