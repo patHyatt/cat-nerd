@@ -1,0 +1,13 @@
+h1 { 
+    font-size: 20px;;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: clamp(25%, 200px, 400px);
+    background: linear-gradient(#1a236e, #3f87a6);
+    border: solid 1px grey;
+    border-radius: 5px 50px 5px 5px;
+    padding: 10px
+}

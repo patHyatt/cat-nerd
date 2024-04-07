@@ -10,4 +10,19 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'cat-nerd';
+
+
+  animals = [
+    'cat',
+    'dog',
+    'hamster',
+    'iguana'
+  ]
+
+  universes = [
+    'star trek',
+    'star wars',
+    'marvel',
+    'dune'
+  ]
 }
